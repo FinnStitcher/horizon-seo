@@ -116,17 +116,17 @@ aside {
     background-color: #2589bd;
 }
 
-aside section {
+aside div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-aside section h3 {
+aside div h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-aside section img {
+aside div img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
